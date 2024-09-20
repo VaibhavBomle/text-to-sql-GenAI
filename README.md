@@ -1,4 +1,4 @@
-# text-to-sql-GenAI# doc-chat-chainlit-GenAI
+# text-to-sql-GenAI
 
 # Install below library
 Create requirements.txt file add lirary
